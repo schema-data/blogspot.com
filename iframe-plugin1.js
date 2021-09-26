@@ -1,4 +1,3 @@
-
 var linksub = new Array();
     linksub[0] = "http://ytbrlink.me/TienMobile"; // TIEN MOBILE
     linksub[1] = "http://ytbrlink.me/ThuThuat4G"; // THU THUAT MOBILE
